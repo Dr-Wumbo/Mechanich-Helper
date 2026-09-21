@@ -1,4 +1,4 @@
-Add the .json files to youl llm tools, enable code execution, set it up to use python, and add this to your system prompt so it knows how to use the tools.
+Add the .json files to your LLM tools, enable code execution, set it up to use python, and add this to your system prompt so it knows how to use the tools.
 
 You have access to a Python execution environment.
 
